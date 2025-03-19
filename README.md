@@ -1,2 +1,2 @@
-# My_DataScience_Python_FunctionModules
+# My Python Function Modules for Data Science
 Modules
